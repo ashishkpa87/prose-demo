@@ -1,4 +1,4 @@
-Starter is a barebones starting point for responsive sites built on Jekyll and with
-site management in [prose](http://prose.io). To get started, Fork this repo and [install Jekyll](http://jekyllrb.com/docs/installation).
+[Prose](http://prose.io) demo (web-interface for github content management) for Jekyll sites.
 
-If you notice any problems or would like to contribute to the project start a discussion from the [issues page](https://github.com/prose/starter/issues)
+If you notice any problems or would like to contribute to the project start a discussion at the original progect [issues page](https://github.com/prose/starter/issues)
+
